@@ -147,10 +147,11 @@ In photosynthesis, plants absorb sunlight to produce glucose (sugar) and oxygen.
 
 
 ### Conclusion 
-Result: The various types of Prompts are executed successfully with generated the report.
+The various types of Prompts are executed successfully with generated the report.
 
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result: 
+Thus the Prompts were exected succcessfully.
 
