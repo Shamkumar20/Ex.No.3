@@ -9,7 +9,7 @@ Procedure:
 1.	Straightforward Prompts:
     - •	"Define photosynthesis in one sentence."
     - 	"List three advantages of electric vehicles."
-
+chatgpt
  3.	Tabular Format Prompting:
      •	"Compare and contrast AC and DC current in a table."
      •	"Provide a table listing five programming languages, their paradigms, and one use case each."
