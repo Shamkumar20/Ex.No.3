@@ -2,17 +2,44 @@
 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+### Aim:
+To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+### Explanation -
+Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 
- 3.	Tabular Format Prompting:
+### Procedure:
+### 1.	Straightforward Prompts:
+     •	"Define photosynthesis in one sentence."
+     •  "List three advantages of electric vehicles."
+     
+#### ChatGPT:
+### Expected Outputs:
+-Photosynthesis is the process by which green plants use sunlight to synthesize food from carbon dioxide and water.
+### -Advantages of electric vehicles:
+1) Environmentally friendly, 2) Lower operating cost, 3) Reduced noise pollution.
+
+#### GEMINI:
+### Expected Outputs:
+-Photosynthesis is the process used by plants and other organisms to convert light energy, typically from the Sun, into chemical energy that can be later released to fuel the organism's activities (in simple terms, it's how plants make their food).
+### -Advantages of Electric Vehicles (EVs):
+#### 1.Lower Emissions:
+EVs produce zero tailpipe emissions, contributing to cleaner air in urban areas.
+#### 2.Reduced Running Costs:
+Electricity is generally cheaper than gasoline, and EVs require less maintenance due to fewer moving parts.
+#### 3.Quieter Operation:
+Electric motors are significantly quieter than internal combustion engines, leading to less noise pollution.
+
+### 2. Tabular Format Prompting:
      •	"Compare and contrast AC and DC current in a table."
      •	"Provide a table listing five programming languages, their paradigms, and one use case each."
+
+#### ChatGPT:
+### Prompt:
+"Compare and contrast AC and DC current in a table with columns: 'Characteristic', 'AC (Alternating Current)', 'DC (Direct Current)'."
+### Output:
+<img width="1038" height="406" alt="Screenshot 2025-09-29 140011" src="https://github.com/user-attachments/assets/ad8817eb-8298-4660-af5f-6d7fe40f60d3" />
+
 3. Preceding Question Prompting:
     •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
     •	"How do vaccines work? Describe the process of immunization in simple terms."
